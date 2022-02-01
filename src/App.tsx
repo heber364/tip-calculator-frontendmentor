@@ -7,7 +7,7 @@ function App() {
 
   const [bill, setBill] = useState(0)
   const [percentage, setPercentage] = useState(15);
-  const [numberPeople, setNumberPeople] = useState(0)
+  const [numberPeople, setNumberPeople] = useState(1)
   const [tip, setTip] = useState(0);
   const [total, setTotal] = useState(0);
 
