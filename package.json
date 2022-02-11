@@ -1,5 +1,5 @@
 {
-  "name": "tip-calculator-app",
+  "name": "tip-calculator-frontedmentor",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
